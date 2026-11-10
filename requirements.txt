@@ -1,3 +1,5 @@
-ultralytics>=8.4.208
+ultralytics>=8.4.0
 sahi>=0.11.0
-opencv-python-headless>=4.8
+opencv-python-headless>=4.8.0
+numpy>=1.26
+scipy>=1.11
